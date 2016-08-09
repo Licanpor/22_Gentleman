@@ -12,11 +12,14 @@ header, footer{
 .ts-2{
 	font-size: 30px;
 }
+.fs-3{
+	font-size: 12px;
+}
 .menu{
 	color:white;
 	padding: 2%;
 }
-.menu:hover, li:hover{
+.menu:hover, li:hover, .co-r{
 	color: red;
 }
 
@@ -57,10 +60,24 @@ li{
 .faw{
 	color: gray;
 	border: 1px dashed white;
-	border-radius: 50px;
+	border-radius: 100%;
 	padding: 2%;
 	margin: 1% 2%;
 }
 .fi{
 	display: inline-block;
+}
+.com{
+	position: absolute;
+}
+.inpt{
+	background-color: gray;
+	border: none;
+	color: white;
+}
+.mg-r{
+	margin-right: 42%;
+}
+.mg{
+	margin-bottom: 25px;
 }
