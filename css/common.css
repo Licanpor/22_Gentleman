@@ -1,0 +1,29 @@
+a{
+	text-decoration: none;
+}
+img{
+	width: 100%;
+}
+nav:hover{
+	color: red;
+}
+section{
+	background-color: gray;
+}
+section, footer{
+	padding-right: 10%;
+	padding-left:10%;
+}
+section .row{
+	padding: 4%;
+	background-color: white;
+}
+.bttn{
+	background-color: gray;
+	color: white;
+	border:none;
+	border-radius: 30px;
+}
+.bb{
+	border-bottom: 1px solid gray;
+}
