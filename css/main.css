@@ -33,11 +33,12 @@ header, footer{
 }
 .bttn-3{
 	font-size: 9px;
-	padding: 1% 2%;
+	padding: 5% 6%;
 }
 .bttn-4{
 	background-color: red;
 	color: white;
+	padding: 3%;
 	border: none;
 }
 h1{
@@ -80,4 +81,7 @@ li{
 }
 .mg{
 	margin-bottom: 25px;
+}
+.op{
+	opacity: .3;
 }

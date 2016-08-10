@@ -4,6 +4,9 @@
 a{
 	text-decoration: none;
 }
+.row{
+	margin: 0;
+}
 img{
 	width: 100%;
 }
@@ -21,6 +24,11 @@ section .row{
 	padding: 4%;
 	background-color: white;
 }
+.dash{
+	height: 6px;
+    background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+ }
 .bttn{
 	background-color: gray;
 	color: white;
@@ -29,4 +37,10 @@ section .row{
 }
 .bb{
 	border-bottom: 1px solid gray;
+}
+footer hr{
+	border: 0;
+	border-top: 1px solid #888;
+	border-bottom: 1px solid #333;
+	height:0;
 }
